@@ -11,7 +11,7 @@ Master Degree of Electrical and Computer Engineering ```(09/2018 ~ 08/2020)``` (
 Bachelor Degree of Electrical and Electronic engineering ```(03/2010 ~ 02/2015)``` (Duksung Women's University, Seoul)   
 
 ## STATS
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=merko&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HOWSANG&theme=merko&show_icons=true"/>
 
 
 ## SKILLS
