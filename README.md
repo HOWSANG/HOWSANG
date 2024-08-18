@@ -20,7 +20,7 @@ Bachelor Degree of Electrical and Electronic engineering ```(03/2010 ~ 02/2015)`
 
 <p align="center">
   <a href="https://github.com/$HOWSANG">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=$HOWSANG&layout=compact&show_icons=$True&show_owner=$True&hide_title=$False&theme=$nord&hide=$" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOWSANG&layout=compact" />
   </a>
 </p>
 
