@@ -40,7 +40,7 @@ Bachelor Degree of Electrical and Electronic engineering ```(03/2010 ~ 02/2015)`
     <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white"/>
