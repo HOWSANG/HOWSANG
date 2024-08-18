@@ -12,7 +12,7 @@ Bachelor Degree of Electrical and Electronic engineering ```(03/2010 ~ 02/2015)`
 
 ## STATS
 <img src="https://github-readme-stats.vercel.app/api?username=HOWSANG&theme=merko&show_icons=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats"/>
 
 ## SKILLS
 <span>
