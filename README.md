@@ -10,7 +10,7 @@ Data Scientist
 
 ## EDUCATION
 - Master Degree of Electrical and Computer Engineering / DataMining ```(09/2018 ~ 08/2020)``` (University of Seoul, Seoul)
-- [Graduation Thesis](https://drive.google.com/file/d/1RFqMDp7ZaPhMJO3jWZcY26K5kBWtF8iO/view?usp=sharing)
+  - [Graduation Thesis](https://drive.google.com/file/d/1RFqMDp7ZaPhMJO3jWZcY26K5kBWtF8iO/view?usp=sharing)
 
 
 - Bachelor Degree of Natural Sciences / Statistics ```(03/2010 ~ 02/2015)``` (Duksung Women's University, Seoul)  
