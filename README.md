@@ -17,7 +17,11 @@ Bachelor Degree of Electrical and Electronic engineering ```(03/2010 ~ 02/2015)`
 </span>
 
 <span>
-    <img src="https://img.shields.io/badge/ SQL-informational?style=social&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white"/>
+</span>
+
+<span>
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white"/>
 </span>
 
 
