@@ -9,11 +9,11 @@ Data Scientist
 
 
 ## EDUCATION
-Master Degree of Electrical and Computer Engineering ```(09/2018 ~ 08/2020)``` (University of Seoul, Seoul)
-Major: DataMining
+- Master Degree of Electrical and Computer Engineering ```(09/2018 ~ 08/2020)``` (University of Seoul, Seoul)
+- Major: DataMining
 
-Bachelor Degree of Natural Sciences ```(03/2010 ~ 02/2015)``` (Duksung Women's University, Seoul)   
-Major: Statistics
+- Bachelor Degree of Natural Sciences ```(03/2010 ~ 02/2015)``` (Duksung Women's University, Seoul)   
+- Major: Statistics
 
 ## STATS
 <p align="center">
