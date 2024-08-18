@@ -10,6 +10,9 @@ Master Degree of Electrical and Computer Engineering ```(09/2018 ~ 08/2020)``` (
 
 Bachelor Degree of Electrical and Electronic engineering ```(03/2010 ~ 02/2015)``` (Duksung Women's University, Seoul)   
 
+## STATS
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=merko&show_icons=true"/>
+
 
 ## SKILLS
 <span>
@@ -25,7 +28,13 @@ Bachelor Degree of Electrical and Electronic engineering ```(03/2010 ~ 02/2015)`
     <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white"/>
 </span>
 <span>
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/>
+</span>
+<span>
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white"/>
