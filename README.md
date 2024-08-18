@@ -29,7 +29,7 @@ Data Scientist
 
 <p align="center">
   <a href="https://github.com/$HOWSANG">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOWSANG&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOWSANG&layout=compact&theme=dark" />
   </a>
 </p>
 
