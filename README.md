@@ -13,15 +13,11 @@ Bachelor Degree of Electrical and Electronic engineering ```(03/2010 ~ 02/2015)`
 
 ## SKILLS
 <span>
-    <img src="https://img.shields.io/badge/ Python-informational?style=flat-square&logo=Python&logoColor=white"/>
-</span>
-
-<span>
     <img src="https://img.shields.io/badge/ Python-informational?style=flat&logo=Python&logoColor=white"/>
 </span>
 
 <span>
-    <img src="https://img.shields.io/badge/ Python-informational?style=social&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ SQL-informational?style=social&logo=Python&logoColor=white"/>
 </span>
 
 
