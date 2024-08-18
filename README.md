@@ -5,8 +5,10 @@
 물음표[?]를 느낌표[!]로 바꾸는 일에 흥미를 갖고 있습니다. 
 메타인지 사고로 문제해결능력을 키워 자기성장하는 것에 보람을 느낍니다.
 
+
 ## POSITION
 Data Scientist
+
 
 
 ## EDUCATION
@@ -15,6 +17,7 @@ Data Scientist
 
 
 - Bachelor Degree of Natural Sciences / Statistics ```(03/2010 ~ 02/2015)``` (Duksung Women's University, Seoul)  
+
 
 
 ## STATS
@@ -29,6 +32,7 @@ Data Scientist
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOWSANG&layout=compact" />
   </a>
 </p>
+
 
 
 ## SKILLS
