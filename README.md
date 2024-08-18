@@ -10,9 +10,20 @@ Master Degree of Electrical and Computer Engineering ```(09/2018 ~ 08/2020)``` (
 
 Bachelor Degree of Electrical and Electronic engineering ```(03/2010 ~ 02/2015)``` (Duksung Women's University, Seoul)   
 
+
 ## STATS
-<img src="https://github-readme-stats.vercel.app/api?username=HOWSANG&theme=merko&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats"/>
+<p align="center">
+  <a href="https://github.com/$HOWSANG">
+    <img src="https://github-readme-stats.vercel.app/api?username=HOWSANG&theme=merko&show_icons=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/$HOWSANG">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=$HOWSANG&layout=compact&show_icons=${아이콘 보여줄지}&show_owner=${소유자 표기}&hide_title=${타이틀 가리기}&theme=${테마}&hide=${가리고 싶은 언어}" />
+  </a>
+</p>
+
 
 ## SKILLS
 <span>
